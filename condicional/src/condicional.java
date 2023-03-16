@@ -13,5 +13,10 @@ public class condicional {
      System.out.println("Hola Luis");
      System.out.println("El valor que ingresaste es menor que 10");
      }
+     else {
+      System.out.println("Hola Luis");
+     System.out.println("El valor que ingresaste es mayor que 10");
+     }
+     
      }
   }
