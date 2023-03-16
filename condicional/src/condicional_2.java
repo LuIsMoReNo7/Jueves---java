@@ -14,14 +14,21 @@ public class condicional_2 {
       //imprimimos
      System.out.println("Hola" + nombre);
      System.out.println("El valor que ingresaste es menor que 10");
+    }
+     if (numero1 == 10){
+        System.out.println("Hola" + nombre);
+     System.out.println("El valor que ingresaste es igual a 10");
      }
+     
      else {
       System.out.println("Hola" + nombre);
      System.out.println("El valor que ingresaste es mayor que 10");
-     }
-       
+
+        }
        }
+       
+    }
      
-     }
+     
     
   
